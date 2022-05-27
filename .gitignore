@@ -1,6 +1,6 @@
 __pycache__
-.env
+# .env
 .history
 .hypothesis/
-build/
+# build/
 reports/
